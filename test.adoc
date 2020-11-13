@@ -52,7 +52,9 @@ Dieses Dokument benötigt ein Inhaltsverzeichnis. Es existieren mehrere Einbindu
 
 <<9. Datenmodell>>
 
-<<9.1 Klassen und Enumerationen>>
+<<9.1. Überblick: Klassendiagramm>>
+
+<<9.2. Klassen und Enumerationen>>
 
 <<10. CRC-Karten>>
 
@@ -391,12 +393,12 @@ Für jeden Dialog:
 
 == 9. Datenmodell 
 
-=== Überblick: Klassendiagramm
+=== 9.1. Überblick: Klassendiagramm
 Vorläufiges UML-Analyseklassendiagramm
 [[class_diagram]]
 image::./src_pflichtenheft/images/class_diagram.png[Class diagram, 100%, 100%, pdfwidth=100%, title= "Class Diagram", align=center]
 
-=== 9.1 Klassen und Enumerationen 
+=== 9.2. Klassen und Enumerationen 
 Dieser Abschnitt stellt eine Vereinigung von Glossar und der Beschreibung von Klassen/Enumerationen dar. Jede Klasse und Enumeration wird in Form eines Glossars textuell beschrieben. Zusätzlich werden eventuellen Konsistenz- und Formatierungsregeln aufgeführt.
 
 // See http://asciidoctor.org/docs/user-manual/#tables
